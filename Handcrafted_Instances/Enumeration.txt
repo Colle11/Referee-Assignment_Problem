@@ -1,0 +1,25 @@
+Divisions = 1;
+Referees = 2;
+Arenas = 1;
+Teams = 2;
+Games = 2;
+
+DIVISIONS % code, min referees, max referees, level, teams
+D1: 1, 2, 4, 2
+
+REFEREES % code, level, coordinates, experience, incompatible referees, incompatible teams, unavailabilities
+R1, 4, (1.8463, 3.70572), 9, [], [], []
+R2, 4, (11.6754, 46.893), 9, [], [], []
+
+ARENAS % code, coordinates
+A1 (40.1892, 41.9326)
+
+TEAMS % name, division
+T1 D1
+T2 D1
+
+GAMES % Home team, guest team, division, date, time, arena, experience
+T1 T2 D1 6/1/2019 21:00 A1 6
+
+T2 T1 D1 19/1/2019 20:00 A1 8
+

@@ -1,0 +1,136 @@
+ T4  T9 1 R1 
+ T6  T7 1 R8 
+T10  T3 1 R1 
+ T1 T12 1 R1 
+ T2 T11 1 R6 
+ T8  T5 1 R1 
+T11  T4 1 R7 
+ T3  T1 1 R6 
+ T7  T8 1 R1 
+T12  T2 1 R8 
+ T5 T10 1 R7 
+ T9  T6 1 R1 
+T10  T7 1 R1 
+ T4  T2 1 R6 
+ T1  T5 1 R1 
+ T6 T11 1 R8 
+ T8  T9 1 R6 
+ T3 T12 1 R1 
+T12  T4 1 R8 
+ T2  T6 1 R6 
+ T7  T1 1 R1 
+ T9 T10 1 R1 
+ T5  T3 1 R7 
+T11  T8 1 R6 
+ T1  T9 1 R1 
+ T6  T4 1 R8 
+ T3  T7 1 R1 
+T10 T11 1 R1 
+ T5 T12 1 R7 
+ T8  T2 1 R6 
+T11  T1 1 R7 
+ T9  T3 1 R1 
+ T7  T5 1 R1 
+T12  T6 1 R8 
+ T4  T8 1 R1 
+ T2 T10 1 R6 
+ T3 T11 1 R1 
+ T8  T6 1 R6 
+ T5  T9 1 R7 
+ T1  T2 1 R1 
+ T7 T12 1 R8 
+T10  T4 1 R6 
+T12  T8 1 R8 
+ T6 T10 1 R5 
+ T4  T1 1 R1 
+T11  T5 1 R8 
+ T9  T7 1 R1 
+ T2  T3 1 R6 
+ T7 T11 1 R1 
+ T1  T6 1 R1 
+T10  T8 1 R6 
+ T3  T4 1 R1 
+ T9 T12 1 R1 
+ T5  T2 1 R7 
+ T4  T5 1 R1 
+T12 T10 1 R8 
+ T2  T7 1 R6 
+ T8  T1 1 R1 
+ T6  T3 1 R8 
+T11  T9 1 R7 
+ T1 T10 1 R1 
+ T3  T8 1 R6 
+ T9  T2 1 R1 
+T11 T12 1 R6 
+ T5  T6 1 R7 
+ T7  T4 1 R1 
+ T9  T4 1 R1 
+T11  T2 1 R7 
+ T5  T8 1 R7 
+T12  T1 1 R8 
+ T3 T10 1 R1 
+ T7  T6 1 R1 
+T10  T5 1 R1 
+ T4 T11 1 R1 
+ T8  T7 1 R6 
+ T1  T3 1 R1 
+ T2 T12 1 R6 
+ T6  T9 1 R8 
+ T7 T10 1 R1 
+ T2  T4 1 R6 
+T12  T3 1 R8 
+ T5  T1 1 R8 
+ T9  T8 1 R1 
+T11  T6 1 R7 
+ T4 T12 1 R1 
+ T6  T2 1 R6 
+ T3  T5 1 R1 
+ T8 T11 1 R6 
+ T1  T7 1 R6 
+T10  T9 1 R1 
+ T4  T6 1 R1 
+T12  T5 1 R8 
+ T7  T3 1 R6 
+T11 T10 1 R7 
+ T9  T1 1 R1 
+ T2  T8 1 R6 
+ T8  T4 1 R6 
+ T1 T11 1 R1 
+T10  T2 1 R6 
+ T5  T7 1 R8 
+ T3  T9 1 R1 
+ T6 T12 1 R8 
+T12  T7 1 R8 
+T11  T3 1 R7 
+ T4 T10 1 R1 
+ T2  T1 1 R6 
+ T9  T5 1 R1 
+ T6  T8 1 R8 
+T10  T6 1 R1 
+ T8 T12 1 R6 
+ T7  T9 1 R1 
+ T1  T4 1 R1 
+ T5 T11 1 R7 
+ T3  T2 1 R1 
+ T8 T10 1 R1 
+ T2  T5 1 R6 
+T12  T9 1 R8 
+ T6  T1 1 R5 
+T11  T7 1 R7 
+ T4  T3 1 R1 
+ T5  T4 1 R7 
+ T3  T6 1 R1 
+ T9 T11 1 R1 
+ T7  T2 1 R6 
+T10 T12 1 R1 
+ T1  T8 1 R6 
+ T8  T3 1 R6 
+T10  T1 1 R1 
+ T6  T5 1 R5 
+ T4  T7 1 R1 
+T12 T11 1 R8 
+ T2  T9 1 R6 
+
+Number of violations: 0
+Cost: 4415
+Elapsed time: 0.008 s

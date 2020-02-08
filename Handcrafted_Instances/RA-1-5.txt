@@ -1,0 +1,44 @@
+Divisions = 1;
+Referees = 5;
+Arenas = 2;
+Teams = 4;
+Games = 12;
+
+DIVISIONS % code, min referees, max referees, level, teams
+D1: 1, 2, 4, 4
+
+REFEREES % code, level, coordinates, experience, incompatible referees, incompatible teams, unavailabilities
+R1, 3, (18.8463, 3.70572), 5, [], [T2], [7/2/2019 18:00-21:30]
+R2, 4, (11.6754, 46.893), 5, [R5], [], [8/7/2019 13:45-16:00, 12/7/2019 16:30-22:00]
+R3, 4, (38.6606, 41.3067), 9, [], [], [30/11/2019 14:30-16:30, 7/7/2019 20:00-22:00, 5/1/2019 16:45-19:45]
+R4, 3, (39.7763, 49.3069), 7, [], [T3], [10/2/2019 16:30-19:00, 15/3/2019 13:45-18:45]
+R5, 3, (26.2307, 32.8272), 10, [R2], [], [27/11/2019 12:00-18:00]
+
+ARENAS % code, coordinates
+A1 (41.9115, 20.3591)
+A2 (40.1892, 41.9326)
+
+TEAMS % name, division
+T1 D1
+T2 D1
+T3 D1
+T4 D1
+
+GAMES % Home team, guest team, division, date, time, arena, experience
+T1 T4 D1 6/1/2019 19:30 A1 6
+T2 T3 D1 5/1/2019 17:00 A2 8
+
+T4 T2 D1 11/1/2019 20:30 A2 4
+T3 T1 D1 12/1/2019 19:30 A1 6
+
+T3 T4 D1 20/1/2019 20:45 A1 4
+T1 T2 D1 19/1/2019 21:00 A1 4
+
+T4 T1 D1 26/1/2019 20:15 A2 4
+T3 T2 D1 26/1/2019 17:45 A1 5
+
+T2 T4 D1 1/2/2019 19:45 A2 5
+T1 T3 D1 1/2/2019 19:15 A1 4
+
+T4 T3 D1 8/2/2019 17:00 A2 4
+T2 T1 D1 9/2/2019 18:30 A2 6
